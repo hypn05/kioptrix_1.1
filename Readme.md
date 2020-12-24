@@ -29,7 +29,7 @@ nmap -sC -sV <ip> -oN nmap
  ```
  <ip>; id
  ```
-![id](id.png)
+![id](ip.png)
 
 ### Payload:
 ```
